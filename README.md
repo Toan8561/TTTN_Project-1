@@ -13,4 +13,16 @@ Chức năng do nhiệt độ:
 
         
     + Kết nối với internet thông qua shield
-    + Kết nối cơ sở dữ liệu cho máy 
+        + Doc: https://docs.arduino.cc/libraries/ethernet/
+
+
+    + Hệ thống tự chiếu sáng (quang trở, hệ thống led)
+
+
+    + Hệ che mưa (cảm biến mưa, cơ sở dữ liệu thời tiết, hệ thống motor )
+
+
+    + Hệ thông tự động bón phân (chất rắn, chất lỏng hòa vào hệ thống tưới)
+
+
+    + Kết nối cơ sở dữ liệu cho máy ( thiết kế cơ sở dữ liệu như firebase )
