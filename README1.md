@@ -1,0 +1,1 @@
+https://circuitdigest.com/microcontroller-projects/interfacing-dht11-sensor-with-arduino
