@@ -35,3 +35,5 @@ Chức năng do nhiệt độ:
 
 
     + Kết nối cơ sở dữ liệu cho máy ( thiết kế cơ sở dữ liệu như firebase )
+
+    + Kết nối thẻ nhớ để lưu dữ liệu (Trạm thời tiết)
