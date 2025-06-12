@@ -1,5 +1,5 @@
 #include <Arduino.h>
-
+#include <Ethernet.h>
 // put function declarations here:
 int myFunction(int, int);
 
