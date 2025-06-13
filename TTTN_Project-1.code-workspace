@@ -4,7 +4,7 @@
 			"path": "."
 		},
 		{
-			"path": "Src_Sim/Demo"
+			"path": "Src_Sim/Ethernet_SDcard"
 		}
 	],
 	"settings": {}
