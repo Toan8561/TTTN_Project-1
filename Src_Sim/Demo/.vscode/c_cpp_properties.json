@@ -1,0 +1,66 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "d:/Proteus/project/TTTN_Project-1/Src_Sim/Demo/include",
+                "d:/Proteus/project/TTTN_Project-1/Src_Sim/Demo/src",
+                "d:/Proteus/project/TTTN_Project-1/Src_Sim/Demo/.pio/libdeps/ATmega328P/DHT sensor library",
+                "d:/Proteus/project/TTTN_Project-1/Src_Sim/Demo/.pio/libdeps/ATmega328P/Adafruit Unified Sensor",
+                "C:/Users/TinNguyen/.platformio/packages/framework-arduino-avr-minicore/cores/MiniCore",
+                "C:/Users/TinNguyen/.platformio/packages/framework-arduino-avr-minicore/variants/standard",
+                "C:/Users/TinNguyen/.platformio/packages/framework-arduino-avr-minicore/libraries/AVR_examples/src",
+                "C:/Users/TinNguyen/.platformio/packages/framework-arduino-avr-minicore/libraries/EEPROM/src",
+                "C:/Users/TinNguyen/.platformio/packages/framework-arduino-avr-minicore/libraries/Flash/src",
+                "C:/Users/TinNguyen/.platformio/packages/framework-arduino-avr-minicore/libraries/SPI/src",
+                "C:/Users/TinNguyen/.platformio/packages/framework-arduino-avr-minicore/libraries/SPI1/src",
+                "C:/Users/TinNguyen/.platformio/packages/framework-arduino-avr-minicore/libraries/SoftwareSerial/src",
+                "C:/Users/TinNguyen/.platformio/packages/framework-arduino-avr-minicore/libraries/Wire/src",
+                "C:/Users/TinNguyen/.platformio/packages/framework-arduino-avr-minicore/libraries/Wire1/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "d:/Proteus/project/TTTN_Project-1/Src_Sim/Demo/include",
+                    "d:/Proteus/project/TTTN_Project-1/Src_Sim/Demo/src",
+                    "d:/Proteus/project/TTTN_Project-1/Src_Sim/Demo/.pio/libdeps/ATmega328P/DHT sensor library",
+                    "d:/Proteus/project/TTTN_Project-1/Src_Sim/Demo/.pio/libdeps/ATmega328P/Adafruit Unified Sensor",
+                    "C:/Users/TinNguyen/.platformio/packages/framework-arduino-avr-minicore/cores/MiniCore",
+                    "C:/Users/TinNguyen/.platformio/packages/framework-arduino-avr-minicore/variants/standard",
+                    "C:/Users/TinNguyen/.platformio/packages/framework-arduino-avr-minicore/libraries/AVR_examples/src",
+                    "C:/Users/TinNguyen/.platformio/packages/framework-arduino-avr-minicore/libraries/EEPROM/src",
+                    "C:/Users/TinNguyen/.platformio/packages/framework-arduino-avr-minicore/libraries/Flash/src",
+                    "C:/Users/TinNguyen/.platformio/packages/framework-arduino-avr-minicore/libraries/SPI/src",
+                    "C:/Users/TinNguyen/.platformio/packages/framework-arduino-avr-minicore/libraries/SPI1/src",
+                    "C:/Users/TinNguyen/.platformio/packages/framework-arduino-avr-minicore/libraries/SoftwareSerial/src",
+                    "C:/Users/TinNguyen/.platformio/packages/framework-arduino-avr-minicore/libraries/Wire/src",
+                    "C:/Users/TinNguyen/.platformio/packages/framework-arduino-avr-minicore/libraries/Wire1/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60118",
+                "ARDUINO_AVR_ATmega328P",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++17",
+            "compilerPath": "C:/Users/TinNguyen/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega328p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}

@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"folders": [
 		{
 			"path": "."
@@ -8,4 +9,14 @@
 		}
 	],
 	"settings": {}
+=======
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "Src_Sim/Demo"
+        }
+    ]
+>>>>>>> 3fed0c8f84517fe63138360b9f8df6318a131574
 }
