@@ -4,7 +4,8 @@
 			"path": "."
 		},
 		{
-			"path": "Src_Sim/Demo"
+			"name": "Usb_sensor",
+			"path": "Src_Sim/Usb_sensor"
 		}
 	],
 	"settings": {}
