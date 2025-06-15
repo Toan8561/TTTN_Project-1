@@ -1,4 +1,4 @@
-Chủ đề TTTN: Smart Weather_Staion
-             Smart Graden 
+Thiết kế PCB sửa dụng phần mềm KiCAD 9.0
+
 
  
