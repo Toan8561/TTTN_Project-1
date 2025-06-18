@@ -1,12 +1,10 @@
 {
-	"folders": [
-		{
-			"path": "."
-		},
-		{
-			"name": "Usb_sensor",
-			"path": "Src_Sim/Usb_sensor"
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "Src_Sim/Usb_sensor"
+        }
+    ]
 }
