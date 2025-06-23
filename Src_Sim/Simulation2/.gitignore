@@ -4,3 +4,8 @@
 .vscode/launch.json
 .vscode/ipch
 /Project Backups/
+/lib/__MACOSX
+/lib/ETHER_28J60
+/lib/EtherCard-main
+/lib/etherShield
+/lib/UIPEthernet
