@@ -3,8 +3,5 @@
         {
             "path": "."
         },
-        {
-            "path": "Src_Sim/Usb_sensor"
-        }
     ]
 }
