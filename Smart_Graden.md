@@ -15,14 +15,14 @@ Chức năng do nhiệt độ:
     + Kết nối với internet thông qua shield (Tín)
         + Doc: https://docs.arduino.cc/libraries/ethernet/
     
-    + Thiết kế mạch điện POE cho cổng ethernet ( )
+    + Thiết kế mạch điện POE cho cổng ethernet ( Toàn )
 
 
     + Hệ thống tự chiếu sáng (quang trở, hệ thống led) ( )
         _ Sử dụng quang trở và LM393 (V)
 
 
-    + Hệ che mưa (cảm biến mưa, cơ sở dữ liệu thời tiết, hệ thống motor ) ( )
+    + Hệ che mưa (cảm biến mưa, cơ sở dữ liệu thời tiết, hệ thống motor ) ( Toàn )
         What is a Sensor that Can Detect Rain:  https://www.rikasensor.com/a-news-what-is-a-sensor-that-can-detect-rain.html
         1. Capacitive Rain Sensors
         2. Optical Rain Sensors
