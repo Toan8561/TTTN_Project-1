@@ -1,0 +1,16 @@
+#include <Arduino.h>
+
+void setup() {
+  Serial.begin(57600);
+}
+
+void loop() {
+  int sensorValue1 = analogRead(A1); /*Read input on analog pin 2*/
+  int sensorValue2 = analogRead(A3); /*Read input on analog pin 4*/
+  float voltage1 = sensorValue1 * (3.3 / 1023.0); /*converted it to 3.3V*/
+  float voltage2 = sensorValue2 * (3.3 / 1023.0);
+  Serial.println("-----------------------------------");
+  Serial.print("Voltage value of input 1: "); Serial.println(voltage1);
+  Serial.print("Voltage value of input 2: "); Serial.println(voltage2);
+  delay(2000);
+}
