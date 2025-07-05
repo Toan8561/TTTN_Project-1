@@ -1,0 +1,1 @@
+How Soil Moisture Sensor Works: https://lastminuteengineers.com/soil-moisture-sensor-arduino-tutorial/    

@@ -1,0 +1,12 @@
+#include <Arduino.h>
+
+void setup() {
+  Serial.begin(57600);
+}
+
+void loop() {
+  int sensorValue = analogRead(A1);
+  float voltage = sensorValue * (3.3 / 1023.0);
+  Serial.println(voltage);
+}
+
